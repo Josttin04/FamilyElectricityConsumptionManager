@@ -1,0 +1,6 @@
+@AdministradorConsumoEléctrico.API_HostAddress = http://localhost:5056
+
+GET {{AdministradorConsumoEléctrico.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
